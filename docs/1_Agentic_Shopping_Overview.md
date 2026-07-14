@@ -1,7 +1,7 @@
 # Option A - Agentic DevOps AI Shopping
 
 Source repository:
-https://github.com/Cloud2BR-MSFTLearningHub/Agentic-DevOps-AI-Shopping
+[https://github.com/Cloud2BR-MSFTLearningHub/Agentic-DevOps-AI-Shopping](https://github.com/Cloud2BR-MSFTLearningHub/Agentic-DevOps-AI-Shopping)
 
 ## Source of Truth
 
@@ -19,8 +19,6 @@ Then follow the repository README setup instructions directly in that repo.
 ## Summary
 
 This option demonstrates a shopping-oriented multi-agent workflow with task decomposition, retrieval, and execution support for product and operational actions.
-
-This 102 page intentionally stays lightweight and points to upstream content instead of duplicating implementation docs.
 
 ## Preview and Download Source
 
