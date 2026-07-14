@@ -51,8 +51,8 @@ extra:
 nav:
   - Home: index.md
   - 01. Fundamentals:
-    - What Is Multi-Agent RAG?: 0_What_is_MultiAgent_RAG.md
-    - Build Approaches: 3_Build_Approaches.md
+    - 01.1 What Is Multi-Agent RAG?: 0_What_is_MultiAgent_RAG.md
+    - 01.2 Build Approaches: 3_Build_Approaches.md
   - 02. Implementation Options:
-    - Option A - Agentic DevOps AI Shopping: 1_Agentic_Shopping_Overview.md
-    - Option B - Agentic AI Media Assistant: 2_Agentic_Media_Assistant_Overview.md
+    - 02.1 Option A - Agentic DevOps AI Shopping: 1_Agentic_Shopping_Overview.md
+    - 02.2 Option B - Agentic AI Media Assistant: 2_Agentic_Media_Assistant_Overview.md
