@@ -1,6 +1,13 @@
-# AI Academy 102 - Building a Multi-Agent RAG Chatbot
+# Building a Multi-Agent RAG Chatbot
 
-This repository publishes the 102-level documentation site focused on building and explaining Multi-Agent RAG solutions.
+[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+[Cloud2BR TEC](https://github.com/Cloud2BR-TEC)
+
+Last updated: 2026-07-14
+
+----------
+
+> Focused on building and explaining Multi-Agent RAG solutions.
 
 ## Included implementation options
 
@@ -9,14 +16,10 @@ This repository publishes the 102-level documentation site focused on building a
 - Agentic AI Media Assistant
   - Source: https://github.com/Cloud2BR-MSFTLearningHub/Agentic-AI-Media-Assistant
 
-## Local run
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1589-limegreen" alt="Total views">
+  <p>Refresh Date: 2026-07-13</p>
+</div>
+<!-- END BADGE -->
 
-```sh
-python -m pip install --upgrade pip
-pip install mkdocs mkdocs-material pymdown-extensions
-mkdocs serve
-```
-
-## Publish
-
-Push to `main` and GitHub Actions deploys to GitHub Pages.
