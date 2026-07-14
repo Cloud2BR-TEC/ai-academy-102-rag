@@ -10,7 +10,7 @@
 - Understand what Multi-Agent RAG is and when to use it.
 - Compare two implementation options for the same concept.
 - Jump to the upstream repos to clone and run locally.
-- Use preview-first links with optional download actions.
+- Use preview-first links to access the upstream source repositories.
 
 <div class="home-grid">
   <a class="home-card" href="0_What_is_MultiAgent_RAG/">

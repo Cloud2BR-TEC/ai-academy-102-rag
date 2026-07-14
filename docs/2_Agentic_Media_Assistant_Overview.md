@@ -29,7 +29,6 @@ If you choose the media assistant approach, the solution is optimized for conten
 
 This path is usually the better fit when your primary goal is high-quality media/content assistance rather than action-heavy operational workflows.
 
-## Preview and Download Source
+## Preview Source
 
 <a class="md-button md-button--primary" href="https://github.com/Cloud2BR-MSFTLearningHub/Agentic-AI-Media-Assistant" target="_blank" rel="noopener">Preview Repository</a>
-<a class="md-button" href="https://github.com/Cloud2BR-MSFTLearningHub/Agentic-AI-Media-Assistant/archive/refs/heads/main.zip">Download ZIP</a>

@@ -29,7 +29,6 @@ If you choose the DevOps shopping approach, the solution is oriented toward stru
 
 This path is usually the better fit when your users need guided decisions, operational actions, and measurable task completion.
 
-## Preview and Download Source
+## Preview Source
 
 <a class="md-button md-button--primary" href="https://github.com/Cloud2BR-MSFTLearningHub/Agentic-DevOps-AI-Shopping" target="_blank" rel="noopener">Preview Repository</a>
-<a class="md-button" href="https://github.com/Cloud2BR-MSFTLearningHub/Agentic-DevOps-AI-Shopping/archive/refs/heads/main.zip">Download ZIP</a>
