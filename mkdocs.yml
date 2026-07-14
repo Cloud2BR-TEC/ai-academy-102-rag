@@ -56,7 +56,3 @@ nav:
   - 02. Implementation Options:
     - Option A - Agentic DevOps AI Shopping: 1_Agentic_Shopping_Overview.md
     - Option B - Agentic AI Media Assistant: 2_Agentic_Media_Assistant_Overview.md
-  - 03. Shared Delivery:
-    - From Shared Repo To Pages: 4_Repo_Setup_and_Shared_Content.md
-    - Deployment and Publish: 5_Deployment_and_Publish.md
-    - Troubleshooting: troubleshooting.md
