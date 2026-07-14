@@ -31,5 +31,5 @@ graph TD
 
 ## Example Repositories
 
-- Agentic DevOps AI Shopping: https://github.com/Cloud2BR-MSFTLearningHub/Agentic-DevOps-AI-Shopping
-- Agentic AI Media Assistant: https://github.com/Cloud2BR-MSFTLearningHub/Agentic-AI-Media-Assistant
+- Agentic DevOps AI Shopping: [https://github.com/Cloud2BR-MSFTLearningHub/Agentic-DevOps-AI-Shopping](https://github.com/Cloud2BR-MSFTLearningHub/Agentic-DevOps-AI-Shopping)
+- Agentic AI Media Assistant: [https://github.com/Cloud2BR-MSFTLearningHub/Agentic-AI-Media-Assistant](https://github.com/Cloud2BR-MSFTLearningHub/Agentic-AI-Media-Assistant)
