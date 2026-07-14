@@ -1,5 +1,7 @@
 # Deployment and Publish
 
+This repository publishes the 102 reference site only. Application implementation is maintained in the upstream repositories.
+
 ## Local Validation
 
 ```sh
@@ -14,6 +16,15 @@ mkdocs serve
 1. Push changes to `main`.
 2. Wait for `Deploy GitHub Pages` workflow completion.
 3. Validate links, preview buttons, and download actions.
+
+## Upstream Repositories (Clone And Setup There)
+
+```sh
+git clone https://github.com/Cloud2BR-MSFTLearningHub/Agentic-DevOps-AI-Shopping.git
+git clone https://github.com/Cloud2BR-MSFTLearningHub/Agentic-AI-Media-Assistant.git
+```
+
+After cloning, run setup from each repository README.
 
 ## Quality Checklist
 

@@ -1,6 +1,6 @@
 # From Shared Repo To Pages
 
-Use this flow to move from shared source repositories into a clean docs site.
+Use this flow to keep implementation content in shared source repositories while this site remains a reference layer.
 
 ## Step 1: Clone Source Repositories
 
@@ -9,23 +9,23 @@ git clone https://github.com/Cloud2BR-MSFTLearningHub/Agentic-DevOps-AI-Shopping
 git clone https://github.com/Cloud2BR-MSFTLearningHub/Agentic-AI-Media-Assistant.git
 ```
 
-## Step 2: Curate Content
+## Step 2: Keep Upstream As Source Of Truth
 
-Copy only what is needed for docs:
+Do not duplicate implementation details in this repo. Keep this site focused on:
 
-- Architecture diagrams
-- Setup instructions
-- Deployment notes
-- Troubleshooting notes
-- Screenshots
+- repository references
+- quick context
+- clone/setup entry points
+- navigation between options
 
-## Step 3: Keep Traceability
+## Step 3: Link Users To Clone And Setup
 
-For every imported section, include:
+Provide direct clone commands and send users to each upstream README for complete setup:
 
-- source repository URL
-- source path
-- adaptation notes
+```sh
+git clone https://github.com/Cloud2BR-MSFTLearningHub/Agentic-DevOps-AI-Shopping.git
+git clone https://github.com/Cloud2BR-MSFTLearningHub/Agentic-AI-Media-Assistant.git
+```
 
 ## Step 4: Preview First, Download Optional
 

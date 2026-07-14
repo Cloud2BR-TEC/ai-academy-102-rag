@@ -3,17 +3,24 @@
 Source repository:
 https://github.com/Cloud2BR-MSFTLearningHub/Agentic-AI-Media-Assistant
 
+## Source of Truth
+
+All implementation details, updates, issues, and setup changes for this option are maintained in the source repository.
+
+## How To Start (Clone And Setup From Source Repo)
+
+```sh
+git clone https://github.com/Cloud2BR-MSFTLearningHub/Agentic-AI-Media-Assistant.git
+cd Agentic-AI-Media-Assistant
+```
+
+Then follow the repository README setup instructions directly in that repo.
+
 ## Summary
 
 This option demonstrates a media-oriented multi-agent workflow with ingestion, retrieval, and assistant orchestration for media operations and user interactions.
 
-## Suggested Documentation Breakdown
-
-1. Architecture and agents.
-2. Environment and prerequisites.
-3. Local run and validation.
-4. Deployment flow.
-5. Known issues and troubleshooting.
+This 102 page intentionally stays lightweight and points to upstream content instead of duplicating implementation docs.
 
 ## Preview and Download Source
 
